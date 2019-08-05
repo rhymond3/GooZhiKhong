@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GooZhiKhong</string>
+    <string name="entry_requirement">Entry Requirement</string>
+    <string name="entry_to_tunku_abdul_rahman_university_college">Entry to Tunku Abdul Rahman University College</string>
+    <string name="spm_level">SPM level</string>
+    <string name="o_level">O Level</string>
+    <string name="uec_level">UEC Level</string>
+    <string name="at_least_5_grade_c_in_releveant_subjects">At least 5 Grade C in releveant subjects?</string>
+    <string name="at_least_grade_c_in_english_language_and_bahasa_melayu">At least Grade C in English Language and Bahasa Melayu</string>
+    <string name="at_least_grade_b_in_mathematics">At least Grade B in Mathematics</string>
+    <string name="requirement">Requirement</string>
+    <string name="submit">Submit</string>
+    <string name="at_least_c_in_english_language">At least C in English Language</string>
+    <string name="at_least_grade_c_in_mathematics">At least Grade C in Mathematics</string>
+    <string name="at_least_3_grade_b">At least 3 Grade B</string>
+    <string name="title">Tunku Abdul Rahman University College</string>
+    <string name="successMessage">Congratz, you can take Diploma in Computer Science in Tunku Abdul Rahman University</string>
+    <string name="unsuccessMessage">Unfortunately, you cannot take Diploma in Computer Science in Tunku Abdul Rahman University</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
